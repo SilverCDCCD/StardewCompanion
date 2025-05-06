@@ -1,0 +1,100 @@
+{
+	"Chicken (Blue)": {
+		"cost": 800,
+		"produces": ["Egg", "Large Egg"],
+		"sell-price": 1040,
+		"lives-in": "Coop",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Chicken (Brown)": {
+		"cost": 800,
+		"produces": ["Egg", "Large Egg"],
+		"sell-price": 1040,
+		"lives-in": "Coop",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Chicken (White)": {
+		"cost": 800,
+		"produces": ["Egg", "Large Egg"],
+		"sell-price": 1040,
+		"lives-in": "Coop",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Void Chicken": {
+		"cost": 0,
+		"produces": ["Egg", "Large Egg"],
+		"sell-price": 1040,
+		"lives-in": "Coop",
+		"obtain-from": ["Witch", "Krobus", "Void Salmon Fish Ponds", "Incubate Void Egg"]
+	},
+	"Golden Chicken": {
+		"cost": 0,
+		"produces": ["Golden Egg"],
+		"sell-price": 1040,
+		"lives-in": "Coop",
+		"obtain-from": ["Marnie's Ranch", "Incubate Golden Egg", "Qi's Walnut Room", "The Witch", "Fishing Treasure Chest"]
+	},
+	"Duck": {
+		"cost": 1200,
+		"produces": ["Duck Egg", "Duck Feather"],
+		"sell-price": 1560,
+		"lives-in": "Big Coop",
+		"obtain-from": ["Marnie's Ranch", "Incubate Duck Egg"]
+	},
+	"Rabbit": {
+		"cost": 8000,
+		"produces": ["Wool", "Rabbit's Foot"],
+		"sell-price": 10400,
+		"lives-in": "Deluxe Coop",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Dinosaur": {
+		"cost": 0,
+		"produces": ["Dinosaur Egg"],
+		"sell-price": 1300,
+		"lives-in": "Big Coop",
+		"obtain-from": ["Incubate Dinosaur Egg", "Artifact Spot in the Mountains/Quarry", "Fishing Treasure Chessts", "Pepper Rex Drop", "Skull Cavern Prehistoric Floors", "Movie Theater Crane Game"]
+	},
+	"Cow (Brown)": {
+		"cost": 1500,
+		"produces": ["Milk", "Large Milk"],
+		"sell-price": 1950,
+		"lives-in": "Barn",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Cow (White)": {
+		"cost": 1500,
+		"produces": ["Milk", "Large Milk"],
+		"sell-price": 1950,
+		"lives-in": "Barn",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Goat": {
+		"cost": 4000,
+		"produces": ["Goat Milk", "Large Goat Milk"],
+		"sell-price": 5200,
+		"lives-in": "Big Barn",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Sheep": {
+		"cost": 8000,
+		"produces": ["Wool"],
+		"sell-price": 10400,
+		"lives-in": "Deluxe Barn",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Pig": {
+		"cost": 16000,
+		"produces": ["Truffle"],
+		"sell-price": 20800,
+		"lives-in": "Deluxe Barn",
+		"obtain-from": ["Marnie's Ranch"]
+	},
+	"Ostrich": {
+		"cost": 0,
+		"produces": ["Ostrich Egg"],
+		"sell-price": 20800,
+		"lives-in": "Barn",
+		"obtain-from": ["Incubate Ostrich Egg", "Volcano Dungeon Rare Chest", "Complete Journal Scarp #10"]
+	}
+}
