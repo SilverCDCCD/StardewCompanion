@@ -1,9 +1,11 @@
 # StardewCompanion
 Project to catalog information about Stardew Valley.
 
+# Added
+- Farm Animals (05/06/25)
+
 # To Add
 - Achievements
-- Animals
 - Artifacts
 - Artisan Goods
 - Bait
@@ -24,6 +26,7 @@ Project to catalog information about Stardew Valley.
 - Hats
 - Minerals
 - Monsters
+- Pets
 - Professions
 - Rings
 - Secret Notes
